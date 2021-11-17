@@ -22,8 +22,11 @@ respeitar os seguintes mockups:
 
 * Desktop: https://marvelapp.com/13gd240g/screen/55669566
 * Mobile: https://marvelapp.com/13gd240g/screen/55669568
+
 As cores utilizadas devem respeitar a seguinte paleta:
+
 * Colors (https://marvelapp.com/13gd240g/screen/38477116)
+
 A fonte da aplicação deve ser Helvetica, utilizando Arial ou qualquer outra fonte
 sem serifa como fallback.
 
