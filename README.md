@@ -1,6 +1,6 @@
 # Desafio  WeatherNow ContaAzul
 
-Este projeto é a implementação do desafio front-end da Conta Azul em Vue.js.
+Este projeto é a implementação do desafio front-end da Conta Azul utilizando Vue.js.
 
 ### Requirements
 
