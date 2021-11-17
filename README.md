@@ -7,6 +7,9 @@ O layout desejado: https://marvelapp.com/13gd240g/screen/55669566
 ### Setup
 ```
 git clone https://github.com/elizabethboop123/Desafio-ContaAzul.git
+
+cd Desafio-ContaAzul
+
 npm i
 ```
 
