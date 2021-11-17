@@ -15,16 +15,20 @@ cd Desafio-ContaAzul
 ```
 ```
 npm i
+
 ```
 
 ### Compiles for development
 ```
 npm run serve
+
 ```
 
 ### Compiles and minifies for production
+
 ```
 npm run build
+
 ```
 
 ### Tests
@@ -34,4 +38,5 @@ npm run test
 ```
 ```
 npm run lint
+
 ```
